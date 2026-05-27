@@ -149,7 +149,7 @@ const Contact = () => {
                 </div>
                 <h3 className="text-2xl font-bold text-white">¡Mensaje Recibido!</h3>
                 <p className="text-gray-400">
-                  Gracias por contactarme, Andres. Te responderé a la brevedad posible.
+                  Gracias por contactarme. Te responderé a la brevedad posible.
                 </p>
                 <button
                   onClick={() => setSucceeded(false)}
